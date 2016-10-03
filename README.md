@@ -16,6 +16,6 @@ Files description:
 	
 	WebContent: HTML/CSS/JavaScript code
 	src/
-		api: Java Servlet and api code
-		db : MySQL and MongoDB code
+		api	: Java Servlet and api code
+		db 	: MySQL and MongoDB code
 		yelp: fetch restaurant data from yelp api
